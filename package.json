@@ -1,0 +1,15 @@
+{
+  "name": "letschat",
+  "version": "1.0.0",
+  "description": "Simple chat application using socket.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ayush Arnav",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.30git",
+    "socket.io": "^2.3.0"
+  }
+}
