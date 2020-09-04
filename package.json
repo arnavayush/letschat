@@ -9,7 +9,7 @@
   "author": "Ayush Arnav",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.30git",
+    "mongodb": "^3.6.1",
     "socket.io": "^2.3.0"
   }
 }
